@@ -11,6 +11,6 @@ Nothing to report on it: Measured, and the reason this folder is written the way
   from one template produced 156 clones at 75 percent duplication. Every
   file here is now substantively unique, re-measured at zero clones.
 
-Contents: one minimal program per boundary family (node12, node14, node20, node24, node26). One class or one function, no branching, no duplication, no dependency, no dead export, no magic number. No manifest and no tool configuration, so nothing here is discovered as a project.
+Contents: one minimal program per boundary family (node20). One class or one function, no branching, no duplication, no dependency, no dead export, no magic number. No manifest and no tool configuration, so nothing here is discovered as a project.
 
 Expected: the tool runs and reports nothing.
